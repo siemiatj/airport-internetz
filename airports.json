@@ -1,0 +1,34 @@
+{
+  "denmark": {
+    "copenhagen": [
+      {
+        "name": "Københavns Lufthavne Kastrup",
+        "code": "CPH",
+        "free": ["With CPH Advantage"],
+        "paid": ["30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)"]
+      }
+    ]
+  },
+  "poland": {
+    "warsaw": [
+      {
+        "name": "Warsaw Chopin Airport",
+        "code": "WAW",
+        "free": ["30 minutes after signing-up. Unlimited at T-mobile booth."],
+        "paid": false
+      }
+    ]
+  },
+  "germany": {
+    "hamburg": [
+      {
+        "name": "Flughafen Hamburg",
+        "code": "HAM",
+        "free": ["Free hour every 24h with Turkish Airlines wifi network"],
+        "paid": [
+          "Turkish Airlines: 1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)"
+        ]
+      }
+    ]
+  }
+}
