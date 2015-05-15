@@ -9,16 +9,6 @@
       }
     ]
   },
-  "poland": {
-    "warsaw": [
-      {
-        "name": "Warsaw Chopin Airport",
-        "code": "WAW",
-        "free": ["30 minutes after signing-up. Unlimited at T-mobile booth."],
-        "paid": false
-      }
-    ]
-  },
   "germany": {
     "hamburg": [
       {
@@ -28,6 +18,26 @@
         "paid": [
           "Turkish Airlines: 1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)"
         ]
+      }
+    ]
+  },
+  "italy": {
+    "verona": [
+      {
+        "name": "Aeroporto di Verona-Villafranca",
+        "code": "VRN",
+        "free": ["@Freeluna_CATULLO - Italian phone number or credit card needed to log in."],
+        "paid": false
+      }
+    ]
+  },
+  "poland": {
+    "warsaw": [
+      {
+        "name": "Warsaw Chopin Airport",
+        "code": "WAW",
+        "free": ["30 minutes after signing-up. Unlimited at T-mobile booth."],
+        "paid": false
       }
     ]
   }
