@@ -9,16 +9,6 @@
       }
     ]
   },
-  "poland": {
-    "warsaw": [
-      {
-        "name": "Warsaw Chopin Airport",
-        "code": "WAW",
-        "free": ["30 minutes after signing-up. Unlimited at T-mobile booth."],
-        "paid": false
-      }
-    ]
-  },
   "germany": {
     "hamburg": [
       {
@@ -30,5 +20,15 @@
         ]
       }
     ]
-  }
+  },
+  "poland": {
+    "warsaw": [
+      {
+        "name": "Warsaw Chopin Airport",
+        "code": "WAW",
+        "free": ["30 minutes after signing-up. Unlimited at T-mobile booth."],
+        "paid": false
+      }
+    ]
+  },
 }
