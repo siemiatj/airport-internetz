@@ -10,6 +10,14 @@
     ]
   },
   "germany": {
+    "frankfurt": [
+      {
+        "name": "Flughafen Frankfurt am Main",
+        "code": "FRA",
+        "free": ["Telekom - Free 24h, registration needed"],
+        "paid": null
+      }
+    ],
     "hamburg": [
       {
         "name": "Flughafen Hamburg",
