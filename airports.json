@@ -7,13 +7,15 @@
         "free": [
           {
             "name": "",
-            "description": "With CPH Advantage subscription."
+            "description": "With CPH Advantage subscription.",
+            "active_date": "2015, 03, 07"
           }
         ]
         "paid": [
           {
             "name": "",
-            "description": "30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)"
+            "description": "30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)",
+            "active_date": "2015, 03, 07"
           }
         ]
       }
@@ -27,7 +29,8 @@
         "free": [
           {
             "name": "Telekom",
-            "description": "Free 24h, registration needed"
+            "description": "Free 24h, registration needed",
+            "active_date": ""
           }
         ],
         "paid": false
@@ -40,13 +43,15 @@
         "free": [
           {
             "name": "Turkish Airlines",
-            "description": "Free hour every 24h"
+            "description": "Free hour every 24h",
+            "active_date": "2015, 05, 25"
           }
         ],
         "paid": [
           {
             "name": "Turkish Airlines"
-            "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)"
+            "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)",
+            "active_date": "2015, 05, 25"
           }
         ]
       }
@@ -60,7 +65,8 @@
         "free": [
           {
             "name": "@Freeluna_CATULLO",
-            "description": "Italian phone number or credit card needed to log in."
+            "description": "Italian phone number or credit card needed to log in.",
+            "active_date": ""
           }
         ]
         "paid": false
@@ -75,11 +81,13 @@
         "free": [
           {
             "name": "",
-            "description": "30 minutes after signing-up"
+            "description": "30 minutes after signing-up",
+            "active_date": "2015, 06, 19"
           },
           {
             "name": "",
-            "description": "Unlimited at T-mobile booth."
+            "description": "Unlimited at T-mobile booth.",
+            "active_date": "2015, 06, 19"
           }
         ],
         "paid": false
