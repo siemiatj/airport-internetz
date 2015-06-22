@@ -120,6 +120,20 @@
         ],
         "paid": false
       }
+    ],
+  "cracow": [
+    {
+      "name": "John Paul II International Airport Kraków-Balice",
+      "code": "KRK",
+      "free": [
+        {
+          "name": "KRK Free WiFi",
+          "description": "Unlimited",
+          "active_date": "2015, 06, 13"
+        }
+      ],
+        "paid": false
+      }
     ]
   },
   "scotland": {
