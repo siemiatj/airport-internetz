@@ -9,7 +9,7 @@
             "name": "",
             "description": "With CPH Advantage subscription."
           }
-        ]
+        ],
         "paid": [
           {
             "name": "",
@@ -45,7 +45,7 @@
         ],
         "paid": [
           {
-            "name": "Turkish Airlines"
+            "name": "Turkish Airlines",
             "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)"
           }
         ]
@@ -62,7 +62,7 @@
             "name": "@Freeluna_CATULLO",
             "description": "Italian phone number or credit card needed to log in."
           }
-        ]
+        ],
         "paid": false
       }
     ]
