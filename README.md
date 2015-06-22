@@ -1,2 +1,28 @@
 # airport-internetz
 List of free/paid wifi connections available on the airports across the world.
+
+## Contributing
+Because there are bazillions (not brazillions, note) of airports accross the world
+contributing is the key to make this list complete. And shaling is caring.
+
+So if you want to add an airport that is missing, please create a PR with data
+formatted in the following way :
+
+```
+  "country": {
+    "city": [
+      {
+        "name": "Local airport name",
+        "code": "Airport code using IATA format: http://www.iata.org/publications/Pages/code-search.aspx",
+        "free": [
+          {
+            "name": "Name of the network",
+            "description": "Description what is needed to be able to join (or what is the cost of access)",
+            "active_date": "Last date when you were able to connect to this network in the following format : ''yyyy, mm, dd'"
+          }
+        ]
+        "paid": If there are no networks of paid/free type set the corresponding key to false
+      }
+    ]
+  },
+```
