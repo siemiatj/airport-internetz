@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/siemiatj/airport-internetz.svg?branch=master)](https://travis-ci.org/siemiatj/airport-internetz)
+
 # airport-internetz
 List of free/paid wifi connections available on the airports across the world.
 
