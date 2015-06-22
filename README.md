@@ -8,7 +8,7 @@ contributing is the key to make this list complete. And shaling is caring.
 So if you want to add an airport that is missing, please create a PR with data
 formatted in the following way :
 
-```
+```javascript
   "country": {
     "city": [
       {
