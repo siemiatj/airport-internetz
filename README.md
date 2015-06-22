@@ -2,13 +2,11 @@
 List of free/paid wifi connections available on the airports across the world.
 
 ## Contributing
-Because there are bazillions (not brazillions, note) of airports accross the world
-contributing is the key to make this list complete. And shaling is caring.
+Because there are bazillions (not brazillions, note) of airports accross the world (or [41,821](https://www.cia.gov/library/publications/the-world-factbook/fields/2053.html) if you prefer exact numbers) contributing is the key to make this list complete. And sharing is caring.
 
-So if you want to add an airport that is missing, please create a PR with data
-formatted in the following way :
+So if you want to add an airport that is missing, please create a PR with data formatted in the following way :
 
-```
+```javascript
   "country": {
     "city": [
       {
@@ -21,7 +19,7 @@ formatted in the following way :
             "active_date": "Last date when you were able to connect to this network in the following format : ''yyyy, mm, dd'"
           }
         ]
-        "paid": If there are no networks of paid/free type set the corresponding key to false
+        "paid": "If there are no networks of paid/free type set the corresponding key to false"
       }
     ]
   },
