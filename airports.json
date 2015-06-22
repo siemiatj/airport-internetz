@@ -1,4 +1,19 @@
 {
+  "china": {
+    "beijing": [
+      {
+        "name": "Běijīng Shǒudū Guójì Jīchǎng",
+        "code": "PEK",
+        "free": [
+          {
+            "name": "AIRPORT-FREE-WIFI",
+            "description": "SMS confirmation needed",
+            "active_date": "2015, 05, 19"
+          }
+        ]
+      }
+    ]
+  },
   "denmark": {
     "copenhagen": [
       {
