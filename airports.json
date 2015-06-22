@@ -128,14 +128,18 @@
         "name": "Edinburgh Airport - Port-adhair Dhùn Èideann",
         "code": "EDI",
         "free": [
-          "name": "_EDI FREE WIFI",
-          "description": "2 hours free",
-          "active_date": "2015, 06, 19"
+          {
+            "name": "_EDI FREE WIFI",
+            "description": "2 hours free",
+            "active_date": "2015, 06, 19"
+          }
         ],
         "paid": [
-          "name": "_EDI FREE WIFI",
-          "description": "1 day/9 £, other options from 3£",
-          "active_date": "2015, 06, 19"
+          {
+            "name": "_EDI FREE WIFI",
+            "description": "1 day/9 £, other options from 3£",
+            "active_date": "2015, 06, 19"
+          }
         ]
       }
     ]
