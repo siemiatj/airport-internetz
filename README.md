@@ -21,7 +21,7 @@ formatted in the following way :
             "active_date": "Last date when you were able to connect to this network in the following format : ''yyyy, mm, dd'"
           }
         ]
-        "paid": If there are no networks of paid/free type set the corresponding key to false
+        "paid": "If there are no networks of paid/free type set the corresponding key to false"
       }
     ]
   },
