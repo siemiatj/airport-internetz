@@ -143,5 +143,21 @@
         ]
       }
     ]
+  },
+  "usa": {
+    "san francisco": [
+      {
+        "name": "San Francisco Airport",
+        "code": "SFO",
+        "free": [
+          {
+            "name": "#SFO FREE WIFI",
+            "description": "Unlimited",
+            "active_date": "2015, 06, 12"
+          }
+        ],
+        "paid": false
+      }
+    ]
   }
 }
