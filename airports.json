@@ -10,7 +10,7 @@
             "description": "With CPH Advantage subscription.",
             "active_date": "2015, 03, 07"
           }
-        ]
+        ],
         "paid": [
           {
             "name": "",
@@ -49,7 +49,7 @@
         ],
         "paid": [
           {
-            "name": "Turkish Airlines"
+            "name": "Turkish Airlines",
             "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)",
             "active_date": "2015, 05, 25"
           }
@@ -68,7 +68,7 @@
             "description": "Italian phone number or credit card needed to log in.",
             "active_date": ""
           }
-        ]
+        ],
         "paid": false
       }
     ]
