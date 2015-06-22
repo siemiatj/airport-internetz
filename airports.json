@@ -4,8 +4,18 @@
       {
         "name": "Københavns Lufthavne Kastrup",
         "code": "CPH",
-        "free": ["With CPH Advantage"],
-        "paid": ["30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)"]
+        "free": [
+          {
+            "name": "",
+            "description": "With CPH Advantage subscription."
+          }
+        ],
+        "paid": [
+          {
+            "name": "",
+            "description": "30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)"
+          }
+        ]
       }
     ]
   },
@@ -14,17 +24,30 @@
       {
         "name": "Flughafen Frankfurt am Main",
         "code": "FRA",
-        "free": ["Telekom - Free 24h, registration needed"],
-        "paid": null
+        "free": [
+          {
+            "name": "Telekom",
+            "description": "Free 24h, registration needed"
+          }
+        ],
+        "paid": false
       }
     ],
     "hamburg": [
       {
         "name": "Flughafen Hamburg",
         "code": "HAM",
-        "free": ["Free hour every 24h with Turkish Airlines wifi network"],
+        "free": [
+          {
+            "name": "Turkish Airlines",
+            "description": "Free hour every 24h"
+          }
+        ],
         "paid": [
-          "Turkish Airlines: 1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)"
+          {
+            "name": "Turkish Airlines",
+            "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)"
+          }
         ]
       }
     ]
@@ -34,7 +57,12 @@
       {
         "name": "Aeroporto di Verona-Villafranca",
         "code": "VRN",
-        "free": ["@Freeluna_CATULLO - Italian phone number or credit card needed to log in."],
+        "free": [
+          {
+            "name": "@Freeluna_CATULLO",
+            "description": "Italian phone number or credit card needed to log in."
+          }
+        ],
         "paid": false
       }
     ]
@@ -44,7 +72,16 @@
       {
         "name": "Warsaw Chopin Airport",
         "code": "WAW",
-        "free": ["30 minutes after signing-up. Unlimited at T-mobile booth."],
+        "free": [
+          {
+            "name": "",
+            "description": "30 minutes after signing-up"
+          },
+          {
+            "name": "",
+            "description": "Unlimited at T-mobile booth."
+          }
+        ],
         "paid": false
       }
     ]
