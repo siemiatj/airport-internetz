@@ -12,6 +12,19 @@
           }
         ]
       }
+    ],
+    "shanghai": [
+      {
+        "name": "Shànghǎi Pǔdōng Guójì Jīchǎng",
+        "code": "PVG",
+        "free": [
+          {
+            "name": "AIRPORT-FREE-WIFI",
+            "description": "SMS confirmation needed",
+            "active_date": "2015, 05, 27"
+          }
+        ]
+      }
     ]
   },
   "denmark": {
