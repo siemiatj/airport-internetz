@@ -1,0 +1,24 @@
+{
+  "name": "airport-internetz",
+  "version": "0.0.1",
+  "description": "List of free/paid wifi connections available on the airports across the world",
+  "main": "airports.json",
+  "scripts": {
+    "test": "mocha ./tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siemiatj/airport-internetz"
+  },
+  "keywords": [
+    "wifi",
+    "airports",
+    "list"
+  ],
+  "author": "siemiatj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siemiatj/airport-internetz/issues"
+  },
+  "homepage": "https://github.com/siemiatj/airport-internetz"
+}
