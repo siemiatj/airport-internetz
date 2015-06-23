@@ -1,5 +1,5 @@
 {
-  "china": {
+  "CN": {
     "beijing": [
       {
         "name": "Běijīng Shǒudū Guójì Jīchǎng",
@@ -27,7 +27,7 @@
       }
     ]
   },
-  "denmark": {
+  "DK": {
     "copenhagen": [
       {
         "name": "Københavns Lufthavne Kastrup",
@@ -49,7 +49,7 @@
       }
     ]
   },
-  "germany": {
+  "DE": {
     "frankfurt": [
       {
         "name": "Flughafen Frankfurt am Main",
@@ -85,7 +85,7 @@
       }
     ]
   },
-  "italy": {
+  "IT": {
     "verona": [
       {
         "name": "Aeroporto di Verona-Villafranca",
@@ -101,7 +101,7 @@
       }
     ]
   },
-  "poland": {
+  "PL": {
     "warsaw": [
       {
         "name": "Warsaw Chopin Airport",
@@ -136,7 +136,7 @@
       }
     ]
   },
-  "scotland": {
+  "GB-SCT": {
     "edinburgh": [
       {
         "name": "Edinburgh Airport - Port-adhair Dhùn Èideann",
@@ -158,7 +158,7 @@
       }
     ]
   },
-  "usa": {
+  "US": {
     "san francisco": [
       {
         "name": "San Francisco Airport",
