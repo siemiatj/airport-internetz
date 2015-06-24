@@ -9,11 +9,11 @@ Because there are bazillions (not brazillions, note) of airports existing (or [4
 So if you want to add an airport that is missing, please create a PR with data formatted in the following way :
 
 ```javascript
-  "country using [ISO code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) : ": {
+  "country using ISO code: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2": {
     "city": [
       {
         "name": "Local airport name",
-        "code": "Airport code using [IATA format](http://www.iata.org/publications/Pages/code-search.aspx)",
+        "code": "Airport code using IATA format: http://www.iata.org/publications/Pages/code-search.aspx",
         "free": [
           {
             "name": "Name of the network",
