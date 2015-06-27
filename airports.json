@@ -27,28 +27,6 @@
       }
     ]
   },
-  "DK": {
-    "copenhagen": [
-      {
-        "name": "Københavns Lufthavne Kastrup",
-        "code": "CPH",
-        "free": [
-          {
-            "name": "",
-            "description": "With CPH Advantage subscription.",
-            "active_date": "2015, 03, 07"
-          }
-        ],
-        "paid": [
-          {
-            "name": "",
-            "description": "30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)",
-            "active_date": "2015, 03, 07"
-          }
-        ]
-      }
-    ]
-  },
   "DE": {
     "frankfurt": [
       {
@@ -80,6 +58,50 @@
             "name": "Turkish Airlines",
             "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)",
             "active_date": "2015, 05, 25"
+          }
+        ]
+      }
+    ]
+  },
+  "DK": {
+    "copenhagen": [
+      {
+        "name": "Københavns Lufthavne Kastrup",
+        "code": "CPH",
+        "free": [
+          {
+            "name": "",
+            "description": "With CPH Advantage subscription.",
+            "active_date": "2015, 03, 07"
+          }
+        ],
+        "paid": [
+          {
+            "name": "",
+            "description": "30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)",
+            "active_date": "2015, 03, 07"
+          }
+        ]
+      }
+    ]
+  },
+  "GB-SCT": {
+    "edinburgh": [
+      {
+        "name": "Edinburgh Airport - Port-adhair Dhùn Èideann",
+        "code": "EDI",
+        "free": [
+          {
+            "name": "_EDI FREE WIFI",
+            "description": "2 hours free",
+            "active_date": "2015, 06, 19"
+          }
+        ],
+        "paid": [
+          {
+            "name": "_EDI FREE WIFI",
+            "description": "1 day/9 £, other options from 3£",
+            "active_date": "2015, 06, 19"
           }
         ]
       }
@@ -133,28 +155,6 @@
           }
         ],
         "paid": false
-      }
-    ]
-  },
-  "GB-SCT": {
-    "edinburgh": [
-      {
-        "name": "Edinburgh Airport - Port-adhair Dhùn Èideann",
-        "code": "EDI",
-        "free": [
-          {
-            "name": "_EDI FREE WIFI",
-            "description": "2 hours free",
-            "active_date": "2015, 06, 19"
-          }
-        ],
-        "paid": [
-          {
-            "name": "_EDI FREE WIFI",
-            "description": "1 day/9 £, other options from 3£",
-            "active_date": "2015, 06, 19"
-          }
-        ]
       }
     ]
   },

@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "List of free/paid wifi connections available on the airports across the world",
   "main": "airports.json",
-  "scripts": {
-    "test": "mocha ./tests/index.js"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/siemiatj/airport-internetz"
@@ -20,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/siemiatj/airport-internetz/issues"
   },
-  "homepage": "https://github.com/siemiatj/airport-internetz"
+  "homepage": "https://github.com/siemiatj/airport-internetz",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.2.2",
+    "gulp-footer": "^1.0.5",
+    "mocha": "^2.2.5",
+    "gulp-mocha": "^2.1.2",
+    "gulp-clean": "^0.3.1",
+    "gulp-json-format": "^1.0.0",
+    "run-sequence": "^1.1.1"
+  }
 }

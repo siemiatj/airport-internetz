@@ -1,0 +1,22 @@
+"DK": {
+  "copenhagen": [
+    {
+      "name": "Københavns Lufthavne Kastrup",
+      "code": "CPH",
+      "free": [
+        {
+          "name": "",
+          "description": "With CPH Advantage subscription.",
+          "active_date": "2015, 03, 07"
+        }
+      ],
+      "paid": [
+        {
+          "name": "",
+          "description": "30 minutes (DKK 40), 1 hour (DKK 60), 4 hours (DKK 80)",
+          "active_date": "2015, 03, 07"
+        }
+      ]
+    }
+  ]
+}
