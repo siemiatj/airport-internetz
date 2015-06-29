@@ -1,0 +1,36 @@
+"DE": {
+  "frankfurt": [
+    {
+      "name": "Flughafen Frankfurt am Main",
+      "code": "FRA",
+      "free": [
+        {
+          "name": "Telekom",
+          "description": "Free 24h, registration needed",
+          "active_date": ""
+        }
+      ],
+      "paid": false
+    }
+  ],
+  "hamburg": [
+    {
+      "name": "Flughafen Hamburg",
+      "code": "HAM",
+      "free": [
+        {
+          "name": "Turkish Airlines",
+          "description": "Free hour every 24h",
+          "active_date": "2015, 05, 25"
+        }
+      ],
+      "paid": [
+        {
+          "name": "Turkish Airlines",
+          "description": "1 hour (5€), 3 hours (10€), 24 hours (15€), 30 days (30€)",
+          "active_date": "2015, 05, 25"
+        }
+      ]
+    }
+  ]
+}

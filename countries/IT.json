@@ -1,0 +1,16 @@
+"IT": {
+  "verona": [
+    {
+      "name": "Aeroporto di Verona-Villafranca",
+      "code": "VRN",
+      "free": [
+        {
+          "name": "@Freeluna_CATULLO",
+          "description": "Italian phone number or credit card needed to log in.",
+          "active_date": ""
+        }
+      ],
+      "paid": false
+    }
+  ]
+}

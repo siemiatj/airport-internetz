@@ -1,0 +1,28 @@
+"CN": {
+  "beijing": [
+    {
+      "name": "Běijīng Shǒudū Guójì Jīchǎng",
+      "code": "PEK",
+      "free": [
+        {
+          "name": "AIRPORT-FREE-WIFI",
+          "description": "SMS confirmation needed",
+          "active_date": "2015, 05, 19"
+        }
+      ]
+    }
+  ],
+  "shanghai": [
+    {
+      "name": "Shànghǎi Pǔdōng Guójì Jīchǎng",
+      "code": "PVG",
+      "free": [
+        {
+          "name": "AIRPORT-FREE-WIFI",
+          "description": "SMS confirmation needed",
+          "active_date": "2015, 05, 27"
+        }
+      ]
+    }
+  ]
+}

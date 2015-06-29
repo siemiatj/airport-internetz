@@ -1,0 +1,35 @@
+"PL": {
+  "warsaw": [
+    {
+      "name": "Warsaw Chopin Airport",
+      "code": "WAW",
+      "free": [
+        {
+          "name": "",
+          "description": "30 minutes after signing-up",
+          "active_date": "2015, 06, 19"
+        },
+        {
+          "name": "",
+          "description": "Unlimited at T-mobile booth.",
+          "active_date": "2015, 06, 19"
+        }
+      ],
+      "paid": false
+    }
+  ],
+  "cracow": [
+    {
+      "name": "John Paul II International Airport Kraków-Balice",
+      "code": "KRK",
+      "free": [
+        {
+          "name": "KRK Free WiFi",
+          "description": "Unlimited",
+          "active_date": "2015, 06, 13"
+        }
+      ],
+      "paid": false
+    }
+  ]
+}
