@@ -1,0 +1,30 @@
+  "AR": {
+    "rosario": [
+      {
+        "name": "Islas Malvinas International Airport",
+        "code": "ROS",
+        "free": [
+          {
+            "name": "Aeropuerto Rosario",
+            "description": "Unlimited",
+            "active_date": "2015, 06, 01"
+          }
+        ],
+        "paid": false
+      }
+    ],
+    "cordoba": [
+      {
+        "name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport",
+        "code": "COR",
+        "free": [
+          {
+            "name": "WiFi Public",
+            "description": "Unlimited",
+            "active_date": "2015, 06, 01"
+          }
+        ],
+        "paid": false
+      }
+    ]
+  }
