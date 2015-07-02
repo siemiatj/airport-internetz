@@ -27,4 +27,4 @@ So if you want to add an airport that is missing, please create a PR with data f
   },
 ```
 
-and add it to a relevant file in `cointries` folder or create a new `ISO_NAME.json` file.
+and add it to a relevant file in `countries` folder or create a new `ISO_NAME.json` file.
