@@ -1,0 +1,22 @@
+"NL": {
+  "amsterdam": [
+    {
+      "name": "Amsterdam Luchthaven Schiphol",
+      "code": "AMS",
+      "free": [
+        {
+          "name": "Schiphol_Airport_WiFi",
+          "description": "Low speed (512kbps) unlimited connection. 1h session.",
+          "active_date": "2015, 06, 19"
+        }
+      ],
+      "paid": [
+        {
+          "name": "Schiphol_Airport_WiFi",
+          "description": "High speed (4MB/s) connection. 15 minutes. 15 min/1.95€, 60 min/4.90€, 24 h/9.90€.",
+          "active_date": "2015, 06, 19"
+        }
+      ]
+    }
+  ]
+}
