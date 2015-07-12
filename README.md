@@ -3,6 +3,9 @@
 # airport-internetz
 List of free/paid wifi connections available on the airports across the world.
 
+## Building
+In order to build the list, just run `npm install & gulp`.
+
 ## Contributing
 Because there are bazillions (not brazillions, note) of airports existing (or [41,821](https://www.cia.gov/library/publications/the-world-factbook/fields/2053.html) if you prefer exact numbers) contributing is the key to make this list complete. And sharing is caring.
 
