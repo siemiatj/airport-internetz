@@ -1,0 +1,22 @@
+"FR": {
+  "paris": [
+    {
+      "name": "Charles de Gaulle International Airport",
+      "code": "CDG",
+      "free": [
+        {
+          "name": "WIFI-AIRPORT",
+          "description": "registration needed",
+          "active_date": "2015, 07, 08"
+        }
+      ],
+      "paid": [
+        {
+          "name": "WIFI-AIRPORT",
+          "description": "20 minutes (2.90€), 1 hour (5.90€), 24 hours (9.90€)",
+          "active_date": "2015, 07, 08"
+        }
+      ]
+    }
+  ]
+}
