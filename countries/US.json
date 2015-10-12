@@ -12,5 +12,45 @@
       ],
       "paid": false
     }
+  ],
+  "chicago:" [
+    {
+      "name": "Chicago O'Hare International Airport",
+      "code": "ORD",
+      "free": [
+        {
+          "name": "Terminal 1",
+          "description": "30min free",
+          "active_date": "2015, 09, 30"
+        },
+        {
+          "name": "Terminal 3",
+          "description": "30min free",
+          "active_date": "2015, 09, 30"
+        },
+        {
+          "name": "Terminal 5",
+          "description": "30min free",
+          "active_date": "2015, 09, 30"
+        }
+      ],
+      "paid": [
+        {
+          "name": "Terminal 1",
+          "description": "4.95$/hour, speeds up to 10Mbps. Or requires Boingo Mobile signup.",
+          "active_date": "2015, 09, 30"
+        },
+        {
+          "name": "Terminal 3",
+          "description": "4.95$/hour, speeds up to 10Mbps. Or requires Boingo Mobile signup.",
+          "active_date": "2015, 09, 30"
+        },
+        {
+          "name": "Terminal 5",
+          "description": "4.95$/hour, speeds up to 10Mbps. Or requires Boingo Mobile signup.",
+          "active_date": "2015, 09, 30"
+        }
+      ]
+    }
   ]
 }
