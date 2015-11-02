@@ -26,5 +26,19 @@
         ],
         "paid": false
       }
+    ],
+    "ezeiza": [
+      {
+        "name": "Aeropuerto Internacional Ministro Pastrini",
+        "code": "EZE",
+        "free": [
+          {
+            "name": "WiFi Public",
+            "description": "Unlimited",
+            "active_date": "2015, 11, 02"
+          }
+        ],
+        "paid": false
+      }
     ]
   }
