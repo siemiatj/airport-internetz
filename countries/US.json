@@ -1,4 +1,18 @@
 "US": {
+  "los angeles": [
+    {
+      "name": "Los Angeles International Airport",
+      "code": "LAX",
+      "free": [
+        {
+          "name": "LAX Free Wifi",
+          "description": "15 minutes",
+          "active_date": "2015, 11, 02"
+        }
+      ],
+      "paid": false
+    }
+  ],
   "san francisco": [
     {
       "name": "San Francisco Airport",
