@@ -7,10 +7,16 @@
         {
           "name": "Telekom",
           "description": "Free 24h, registration needed",
-          "active_date": "2015, 06, 13"
+          "active_date": "2015, 12, 12"
         }
       ],
-      "paid": false
+      "paid": [
+        {
+          "name": "Telekom",
+          "description": "1 day (4.95€), 1 week (19.95€)",
+          "active_date": "2015, 12, 12"
+        }
+      ]
     }
   ],
   "hamburg": [
