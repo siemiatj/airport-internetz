@@ -1,0 +1,16 @@
+"CA": {
+  "toronto": [
+    {
+      "name": "Toronto Pearson International Airport",
+      "code": "YYZ",
+      "free": [
+        {
+          "name": "Toronto Pearson Wi-Fi",
+          "description": "Free, no known limits or registration needed",
+          "active_date": "2015, 12, 12"
+        }
+      ],
+      "paid": null
+    }
+  ]
+}
