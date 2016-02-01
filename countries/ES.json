@@ -1,0 +1,22 @@
+"ES": {
+  "madrid": [
+    {
+      "name": "Aeropuerto Adolfo Suárez Madrid-Barajas",
+      "code": "MAD",
+      "free": [
+        {
+          "name": "Airport_Free_WiFi_AENA",
+          "description": "Free and paid sponsored service (watch an ad to activate)",
+          "active_date": "2016, 01, 29"
+        }
+      ],
+      "paid": [
+        {
+          "name": "Airport_Free_WiFi_AENA",
+          "description": "Unlimited access €4.50, Family access (multiple devices) €7.50",
+          "active_date": "2016, 01, 29"
+        }
+      ]
+    }
+  ]
+}
