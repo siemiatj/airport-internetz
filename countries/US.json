@@ -86,5 +86,19 @@
         }
       ]
     }
+  ],
+  "page": [
+    {
+      "name": "Page Municipal Airport",
+      "code": "PGA",
+      "free": [
+        {
+          "name": "Airport Hotspot",
+          "description": "Unlimited",
+          "active_date": "2016, 03, 06"
+        }
+      ],
+      "paid": false
+    }
   ]
 }
