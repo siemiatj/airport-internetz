@@ -43,9 +43,9 @@
           "active_date": "2015, 09, 30"
         },
         {
-          "name": "Terminal 5",
+          "name": "_Free_ORD_Wi-Fi",
           "description": "30min free",
-          "active_date": "2015, 09, 30"
+          "active_date": "2016, 06, 04"
         }
       ],
       "paid": [
@@ -60,9 +60,9 @@
           "active_date": "2015, 09, 30"
         },
         {
-          "name": "Terminal 5",
+          "name": "_Free_ORD_Wi-Fi",
           "description": "4.95$/hour, speeds up to 10Mbps. Or requires Boingo Mobile signup.",
-          "active_date": "2015, 09, 30"
+          "active_date": "2016, 06, 04"
         }
       ]
     }
