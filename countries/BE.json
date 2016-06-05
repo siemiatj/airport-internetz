@@ -1,0 +1,16 @@
+"BE": {
+  "brussels": [
+    {
+      "name": "Luchhaven Brussel-Nationaal",
+      "code": "BRU",
+      "free": [
+	{
+	  "name": "Brussels Airport",
+	  "description": "Free, access for 24hrs. Requires signup",
+	  "active_date": "2016, 06, 05"
+	}
+      ],
+      "paid": null
+    }
+  ]
+}
